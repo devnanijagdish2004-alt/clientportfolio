@@ -14,7 +14,7 @@ function Navebar() {
         className="px-[2rem] py-[.8rem] max-sm:py-[.8rem] absolute flex justify-between items-center z-50 bg-white text-[#041A17] w-full shadow-[0_5px_10px_rgba(0,0,0,0.2)]"
       >
         <h2 className="logo cursor-pointer leading-[1.6rem] text-[1.8rem] font-bold tracking-[.2rem]">
-          <span className="text-[#1c31b5]">R</span>akesh
+          <span className="text-[#1c31b5]">I</span>shita
         </h2>
         <ul className="max-sm:hidden flex  justify-center items-center gap-[1.2rem] text-[1.2rem] font-semibold capitalize">
           <a
@@ -65,7 +65,7 @@ function Navebar() {
             className="absolute text-[2rem] top-[2rem] right-[2rem] text-[#1c31b5]"
           />
           <h2 className="absolute top-[2rem] logo cursor-pointer text-[2rem] font-bold tracking-[.2rem]">
-            <span className="text-[#1c31b5]">R</span>akesh
+            <span className="text-[#1c31b5]">I</span>shita
           </h2>
 
           <a
@@ -109,3 +109,4 @@ function Navebar() {
   );
 }
 export default Navebar;
+
