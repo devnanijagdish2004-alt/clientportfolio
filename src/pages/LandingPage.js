@@ -87,7 +87,7 @@ function LandingPage() {
             HELLO THERE,
           </h2>
           <h2 className="text-[2.4rem] max-sm:text-[2.1rem] font-bold  uppercase tracking-[.1rem]">
-            I'M RAKESH MEENA
+            I'M Ishita Ambwani
           </h2>
           <p className="mt-[.6rem] max-sm:px-[2rem] w-[46rem] max-sm:w-full text-[1.2rem] text-center  ">
             A Frontend Web Devloper building the Fontend of Websites and
@@ -508,10 +508,11 @@ function LandingPage() {
         </div>
       </section>
       <footer className="py-[1rem] flex justify-center items-center text-white bg-[#1c31b5]">
-         Copyright © 2023 by Dhrumit | All Rights Resereved
+         Copyright © 2023 by Ishita | All Rights Resereved
       </footer>
     </>
   );
 }
 
 export default LandingPage;
+
